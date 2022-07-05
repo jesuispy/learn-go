@@ -1,4 +1,4 @@
-# learn-go
+# Learn Go Lang 
 
 ![Gopher, the Go mascot](/img/gopher.png)
 
