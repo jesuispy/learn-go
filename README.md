@@ -12,3 +12,20 @@
 - [**Go Programming (Golang): The Complete Developer's Guide - From the Zero to mastery team**](https://medium.com/r/?url=https%3A%2F%2Facademy.zerotomastery.io%2Fa%2Faff_36c28vcb%2Fexternal%3Faffcode%3D441520_hqpya5hn). You can click use the link and use the code FRIENDS10 to get a 10% discount on your subscription.
 
 - [**Golang – Online Learning Course - From the kode kloud team**](https://kodekloud.com/courses/golang/)
+
+## Basics
+- **Go facts** 
+  - Crete in 2007.
+  - Created by Google.
+  - Static typed language.
+      
+- **Known application written in Go**
+  - [**Docker**](https://docs.docker.com/get-started/overview/#:~:text=Docker%20is%20written%20in%20the,of%20namespaces%20for%20that%20container.)
+
+- **Go Types** 
+  - Boolean type. This is either ```true``` or ```false```
+  - String type. A sequence of bytes. This can be letter, numbers, characters, empty.
+  - Numerical type. This is a integer or float.
+  - Array type. A numbered sequence of element of the same type.
+  - Slice type. 
+  
