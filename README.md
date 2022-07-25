@@ -15,7 +15,7 @@
 
 ## Basics
 - **Go facts** 
-  - Crete in 2007.
+  - Created in 2007.
   - Created by Google.
   - Static typed language.
       
