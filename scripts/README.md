@@ -6,7 +6,7 @@
 
 # **To initialize module use following syntax** 
 
-go mod init example/hello this creates a .mod file.
+`go mod init example/hello` this creates a .mod file.
 
 # **Create Go file** 
 
