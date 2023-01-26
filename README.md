@@ -22,6 +22,13 @@
 - **Known application written in Go**
   - [**Docker**](https://docs.docker.com/get-started/overview/#:~:text=Docker%20is%20written%20in%20the,of%20namespaces%20for%20that%20container.)
 
+- **How Go is organized**
+  - As packages. Focused on a single thing which can be imported 
+  - Programs = 1 or + packages
+  - Modules collection of packages, create with go.mod file in the root which is mandatory
+  - Modules contain info on dependencies, Go version, info.
+
+
 - **Go Types** 
   - Boolean type. This is either ```true``` or ```false```
   - String type. A sequence of bytes. This can be letter, numbers, characters, empty.
